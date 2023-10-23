@@ -5,6 +5,7 @@ namespace HybridAlgorithms;
 
             public static void Main(string[] args)
             {
+                    
             Console.InputEncoding = Encoding.Unicode;
             Console.OutputEncoding = Encoding.Unicode;
                  
